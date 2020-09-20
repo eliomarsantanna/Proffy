@@ -24,7 +24,7 @@ O **Proffy** é uma aplicação Web e Mobile feita para auxiliar na conexão ent
   
 Este projeto foi idealizado pensando no **6 de agosto**, onde se comemora o **Dia Nacional dos Profissionais da Educação**.
   
-Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br/).
+Essa aplicação foi realizada durante a **Next **Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br/).
 
 ## :rocket: Tecnologias
 
@@ -34,7 +34,7 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
 -  [React Native](http://facebook.github.io/react-native/)
 -  [Expo](https://expo.io/)
 -  [Express](https://expressjs.com/)
--  [axios](https://github.com/axios/axios)
+-  [Axios](https://github.com/axios/axios)
 
 ## :boom: Como Executar
 

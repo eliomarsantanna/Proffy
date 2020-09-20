@@ -2,7 +2,6 @@
 
 <h1 align="center">
     <br>Next Level Week #2<br/>
-    Node.js | ReactJS | React Native
 </h1>
 
 <p align="center">
@@ -24,7 +23,7 @@ O **Proffy** é uma aplicação Web e Mobile feita para auxiliar na conexão ent
   
 Este projeto foi idealizado pensando no **6 de agosto**, onde se comemora o **Dia Nacional dos Profissionais da Educação**.
   
-Essa aplicação foi realizada durante a Next Level Week #2, projeto da [Rocketseat](https://rocketseat.com.br/).
+Essa aplicação foi realizada durante a  Next Level Week #2, projeto da [Rocketseat](https://rocketseat.com.br/).
 
 ## :rocket: Tecnologias
 

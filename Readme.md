@@ -1,5 +1,4 @@
 <h1 align="center">
-    <img alt="Proffy" src=".github/logo.svg" height="100px" />
     <br>Next Level Week #2<br/>
     Node.js | ReactJS | React Native
 </h1>
@@ -8,8 +7,6 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eliomarsantanna/proffy?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eliomarsantanna/proffy?style=flat-square">
   <img alt="GitHub" src="https://img.shields.io/github/license/eliomarsantanna/proffy?style=flat-square"> 
-  <img alt="Made in Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
-</p>
 
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

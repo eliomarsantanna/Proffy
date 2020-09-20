@@ -15,9 +15,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="design do projeto" width="650px" src="./.github/design.png" />
-<p>
 
 ## :bookmark: Sobre
 

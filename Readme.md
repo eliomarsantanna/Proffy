@@ -12,7 +12,6 @@
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 
@@ -22,7 +21,7 @@ O **Proffy** é uma aplicação Web e Mobile feita para auxiliar na conexão ent
   
 Este projeto foi idealizado pensando no **6 de agosto**, onde se comemora o **Dia Nacional dos Profissionais da Educação**.
   
-Essa aplicação foi realizada durante a  Next Level Week #2, projeto da [Rocketseat](https://rocketseat.com.br/).
+Essa aplicação foi desenvolvida durante a  Next Level Week #2, projeto da [Rocketseat](https://rocketseat.com.br/).
 
 ## :rocket: Tecnologias
 

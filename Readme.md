@@ -1,7 +1,4 @@
 # Proffy
-<h1 align="center">
-    <br>Next Level Week #2<br/>
-</h1>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eliomarsantanna/proffy?style=flat-square">

@@ -20,7 +20,7 @@ Este projeto foi idealizado pensando no **6 de agosto**, onde se comemora o **Di
   
 Essa aplicação foi desenvolvida durante a  Next Level Week #2, projeto da [Rocketseat](https://rocketseat.com.br/).
 
-## :rocket: Tecnologias
+## :rocket: Ferramentas
 
 -  [Typescript](https://www.typescriptlang.org/)
 -  [Node.js](https://nodejs.org/en/)
@@ -71,4 +71,4 @@ Essa aplicação foi desenvolvida durante a  Next Level Week #2, projeto da [Roc
 
 
 ---
-<sup> >> Desenvolvido por Eliomar Sant'Anna, com a tutoria de Diego Fernandes da Rocketseat.</sup>
+<sup> Desenvolvido por Eliomar Sant'Anna, com a tutoria de Diego Fernandes da Rocketseat.</sup>
